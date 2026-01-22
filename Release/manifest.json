@@ -1,0 +1,11 @@
+{
+	"id": "think-forge-sync",
+	"name": "Think Forge Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Sync notes with Think Forge Chat browser extension. Bidirectional sync between your Obsidian vault and Think Forge conversations, Forge Docs, and DocKits.",
+	"author": "Think Forge",
+	"authorUrl": "https://thinkforge.app",
+	"isDesktopOnly": true
+}
+
